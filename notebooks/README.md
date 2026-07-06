@@ -33,7 +33,7 @@
 *   [Chest X-ray anatomy localization](cxr_anatomy_localization_with_hugging_face.ipynb) -
     Illustrates how to perform a localization task with MedGemma 1.5 using
     Hugging Face libraries and running the model locally.
-    - [Anatomy Localisation of cardiac chambers contour tracing on Echocardiography](MedGemma-Echocardiography Polygon traces.ipynb) -
+    - [Anatomy Localisation of cardiac chambers contour tracing on Echocardiography]([MedGemma-Echocardiography Polygon traces.ipynb](https://github.com/habanwer/medgemma-ATRIA-EchoTrace/blob/main/notebooks/MedGemma-Echocardiography%20Polygon%20traces.ipynb)) -
     Fine-tune MedGemma-1.5-4B-it to output polygon coordinates for tracing the cardiac chambers on echocardiographic frames.
     
 *   [Chest X-ray longitudinal comparison](cxr_longitudinal_comparison_with_hugging_face.ipynb) -
